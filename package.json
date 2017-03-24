@@ -1,0 +1,22 @@
+{
+  "name": "keystroke-interpreter-database-retrieval",
+  "version": "1.0.0",
+  "description": "A database retrieval tool for the keystroke interpreter project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaerod95/keystroke-interpreter-database-retrieval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaerod95/keystroke-interpreter-database-retrieval/issues"
+  },
+  "homepage": "https://github.com/jaerod95/keystroke-interpreter-database-retrieval#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
