@@ -7,6 +7,8 @@ A database retrieval tool for the keystroke interpreter project.
 3. open a terminal(Mac OS) or powershell(windows) window in the file directory of the project.
 4. type the following command with an enter at the end of each line. (it will do stuff after each enter, just wait untill it finishes.
 ```
+git clone https://github.com/jaerod95/keystroke-interpreter-database-retrieval.git keystroke
+cd keystroke
 npm install
 node index.js 
 ```
